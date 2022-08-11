@@ -1,1 +1,3 @@
 # mediapipe
+
+pip install mediapipe
